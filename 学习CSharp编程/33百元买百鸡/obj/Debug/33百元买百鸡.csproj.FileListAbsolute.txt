@@ -1,0 +1,7 @@
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\bin\Debug\33百元买百鸡.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\bin\Debug\33百元买百鸡.exe
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\bin\Debug\33百元买百鸡.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\obj\Debug\33百元买百鸡.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\obj\Debug\33百元买百鸡.exe
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\obj\Debug\33百元买百鸡.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\33百元买百鸡\obj\Debug\33百元买百鸡.csprojResolveAssemblyReference.cache

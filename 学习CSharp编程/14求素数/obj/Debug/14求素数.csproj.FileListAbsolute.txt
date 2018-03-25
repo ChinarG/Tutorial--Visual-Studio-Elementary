@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\bin\Debug\14求素数.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\bin\Debug\14求素数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\bin\Debug\14求素数.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\obj\Debug\14求素数.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\obj\Debug\14求素数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\14求素数\obj\Debug\14求素数.pdb

@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\bin\Debug\23计算工资准备多少张人民币.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\bin\Debug\23计算工资准备多少张人民币.exe
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\bin\Debug\23计算工资准备多少张人民币.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\obj\Debug\26计算工资准备多少张人民币.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\obj\Debug\23计算工资准备多少张人民币.exe
+D:\Unity Files\VS Assets\学习CSharp编程\23计算工资准备多少张人民币\obj\Debug\23计算工资准备多少张人民币.pdb

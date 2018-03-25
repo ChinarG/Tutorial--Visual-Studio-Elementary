@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\bin\Debug\32四舍五入简化.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\bin\Debug\32四舍五入简化.exe
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\bin\Debug\32四舍五入简化.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\obj\Debug\32四舍五入简化.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\obj\Debug\32四舍五入简化.exe
+D:\Unity Files\VS Assets\学习CSharp编程\32四舍五入简化\obj\Debug\32四舍五入简化.pdb

@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\bin\Debug\17枚举类型.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\bin\Debug\17枚举类型.exe
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\bin\Debug\17枚举类型.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\obj\Debug\17枚举类型.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\obj\Debug\17枚举类型.exe
+D:\Unity Files\VS Assets\学习CSharp编程\17枚举类型\obj\Debug\17枚举类型.pdb

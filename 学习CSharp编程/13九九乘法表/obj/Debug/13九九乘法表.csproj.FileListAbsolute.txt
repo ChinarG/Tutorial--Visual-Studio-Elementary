@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\bin\Debug\13九九乘法表.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\bin\Debug\13九九乘法表.exe
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\bin\Debug\13九九乘法表.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\obj\Debug\13九九乘法表.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\obj\Debug\13九九乘法表.exe
+D:\Unity Files\VS Assets\学习CSharp编程\13九九乘法表\obj\Debug\13九九乘法表.pdb

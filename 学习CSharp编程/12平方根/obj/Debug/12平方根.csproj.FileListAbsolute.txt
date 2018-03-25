@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\bin\Debug\12平方根.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\bin\Debug\12平方根.exe
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\bin\Debug\12平方根.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\obj\Debug\12平方根.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\obj\Debug\12平方根.exe
+D:\Unity Files\VS Assets\学习CSharp编程\12平方根\obj\Debug\12平方根.pdb

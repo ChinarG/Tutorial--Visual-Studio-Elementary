@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\bin\Debug\22计算可乐瓶子数.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\bin\Debug\22计算可乐瓶子数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\bin\Debug\22计算可乐瓶子数.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\obj\Debug\22计算可乐瓶子数.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\obj\Debug\22计算可乐瓶子数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\22计算可乐瓶子数\obj\Debug\22计算可乐瓶子数.pdb

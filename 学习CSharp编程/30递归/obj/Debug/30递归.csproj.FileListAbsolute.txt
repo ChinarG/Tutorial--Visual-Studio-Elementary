@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\bin\Debug\30递归.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\bin\Debug\30递归.exe
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\bin\Debug\30递归.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\obj\Debug\30递归.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\obj\Debug\30递归.exe
+D:\Unity Files\VS Assets\学习CSharp编程\30递归\obj\Debug\30递归.pdb

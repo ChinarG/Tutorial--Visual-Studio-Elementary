@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\bin\Debug\05布尔.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\bin\Debug\05布尔.exe
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\bin\Debug\05布尔.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\obj\Debug\05布尔.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\obj\Debug\05布尔.exe
+D:\Unity Files\VS Assets\学习CSharp编程\05布尔\obj\Debug\05布尔.pdb

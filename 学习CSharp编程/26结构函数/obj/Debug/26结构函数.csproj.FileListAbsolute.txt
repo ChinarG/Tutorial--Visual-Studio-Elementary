@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\bin\Debug\25结构函数.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\bin\Debug\25结构函数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\bin\Debug\25结构函数.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\obj\Debug\26结构函数.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\obj\Debug\25结构函数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\26结构函数\obj\Debug\25结构函数.pdb

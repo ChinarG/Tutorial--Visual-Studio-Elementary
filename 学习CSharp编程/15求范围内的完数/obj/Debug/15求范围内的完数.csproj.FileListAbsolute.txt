@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\bin\Debug\15求范围内的完数.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\bin\Debug\15求范围内的完数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\bin\Debug\15求范围内的完数.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\obj\Debug\15求范围内的完数.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\obj\Debug\15求范围内的完数.exe
+D:\Unity Files\VS Assets\学习CSharp编程\15求范围内的完数\obj\Debug\15求范围内的完数.pdb

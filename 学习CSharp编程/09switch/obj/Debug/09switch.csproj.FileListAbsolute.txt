@@ -1,0 +1,6 @@
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\bin\Debug\09switch.exe.config
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\bin\Debug\09switch.exe
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\bin\Debug\09switch.pdb
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\obj\Debug\09switch.csproj.CoreCompileInputs.cache
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\obj\Debug\09switch.exe
+D:\Unity Files\VS Assets\学习CSharp编程\09switch\obj\Debug\09switch.pdb
